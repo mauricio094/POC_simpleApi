@@ -1,4 +1,4 @@
-# POC_simpleApi
+# (POC) simples API 
 Uma API simples para estudos da linguagem Golang
 
 # Objetivo
